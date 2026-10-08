@@ -40,4 +40,4 @@ function getResult(userMove, computerMove){
         return
   }
 
-  localStorage.setItem
+  
